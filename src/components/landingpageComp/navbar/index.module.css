@@ -1,0 +1,35 @@
+.links{
+    color: white;
+    
+}
+  .searchInput {
+    padding: 8px;
+    border: 1px solid white; /* White outline */
+    border-radius: 5px;
+    margin-right: 10px;
+    color: white;
+    background-color: transparent;
+  }
+  
+  .searchButton {
+    background-color: transparent;
+    border: 1px solid white; /* White outline */
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navBar {
+    align-items: center;
+  }
+  
+  .logoImage {
+    object-fit: cover;
+    image-rendering: inherit;
+    width: 170px;
+    height: 170px;
+  }
+  

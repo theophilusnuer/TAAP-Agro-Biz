@@ -1,0 +1,45 @@
+.foot {
+    background: linear-gradient(196deg, rgba(1, 67, 19, 1) 0%, rgba(0, 0, 0, 0.9780287114845938) 86%);
+    color: white;
+    padding-top: 50px;
+    height: 65vh;
+    width: 100%;
+    margin: 70px 0 0 0;
+  }
+  
+  .display {
+    justify-content: space-evenly;
+    display: flex;
+  }
+  
+  .logo {
+    object-fit: cover;
+    image-rendering: inherit;
+    width: 180px;
+    height: 180px;
+  }
+  
+  .icon {
+    display: flex;
+    padding: 30px 50px;
+  }
+  
+  .footerlinks {
+    color: #00b207;
+  }
+  
+  .list {
+    list-style-type: none;
+    padding: 0;
+    line-height: 2;
+  }
+  
+  .copy {
+    text-align: center;
+    color: gray;
+    padding-top: 30px;
+  }
+  
+  .info {
+    display: flex;
+  }
